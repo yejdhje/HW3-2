@@ -11,7 +11,7 @@ void example_1(int n, char A, char B, char C) {
 }
 int main() {
 	int n;
-	printf("請輸入n:");
+	printf("請河內塔盤子數量:");
 	scanf("%d", &n);
 	example_1(n, '1', '2', '3');
 	return 0;
